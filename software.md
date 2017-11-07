@@ -5,16 +5,17 @@
 - google drive
 - Stack
 
-- Steam
-- Finale 2014
-- Skype (Store?)
-- Chrome
-- Keepass
+- Steam (mediadrive)
+- Finale 2014 (mediadrive)
+- Skype (Store)
+- Chrome (mediadrive)
+- Keepass (dropbox)
 - Pomello (http://www.pomelloapp.com/download)
 - Prowise Presenter (https://www.prowise.com/be/klantenservice/presenter-software/#download)
-- VirtualBox
-- MS Office
+- VirtualBox (mediadrive)
+- MS Office (mediadrive)
 - amazing slow downer
+- Harmony (mediadrive)
 
 
 
@@ -23,16 +24,19 @@
 - Google Drive
 - Stack
 
-- Musescore
-- Libreoffice
+- Chromium (apt)
+- Mono
+- Musescore (apt)
+- Libreoffice (apt)
 - "e-mailclient"
-- Visual Studio Code
-- Keepass
+- Visual Studio Code (https://code.visualstudio.com/docs/?dv=linux64_deb)
+- Keepass (https://keepass.info/help/v2/setup.html#mono)
 - Pomelo (http://www.pomelloapp.com/download)
-- Cura
+- Cura (https://ultimaker.com/en/products/cura-software/list)
 - Harmony (getharmony.xyz)
-- audacity
-- duplicati
-- eID
-- RawTherapee
-- Trello
+- audacity (apt)
+- duplicati (https://www.duplicati.com/)
+- eID (https://eid.belgium.be/nl/linux-eid-software-installatie)
+- RawTherapee (apt)
+- Trello (https://github.com/danielchatfield/trello-desktop)
+- Arduino IDE (apt)
