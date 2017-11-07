@@ -1,6 +1,6 @@
-Computer software
+# Computer software
 
-Windows
+## Windows
 - dropbox
 - google drive
 - Stack
@@ -12,10 +12,13 @@ Windows
 - Keepass
 - Pomello (http://www.pomelloapp.com/download)
 - Prowise Presenter (https://www.prowise.com/be/klantenservice/presenter-software/#download)
+- VirtualBox
+- MS Office
+- amazing slow downer
 
 
 
-Linux
+## Linux
 - Dropbox
 - Google Drive
 - Stack
@@ -26,3 +29,10 @@ Linux
 - Visual Studio Code
 - Keepass
 - Pomelo (http://www.pomelloapp.com/download)
+- Cura
+- Harmony (getharmony.xyz)
+- audacity
+- duplicati
+- eID
+- RawTherapee
+- Trello
