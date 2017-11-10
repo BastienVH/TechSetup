@@ -25,7 +25,7 @@
 - Stack
 
 - Chromium (apt)
-- Mono
+- Mono (apt)
 - Musescore (apt)
 - Libreoffice (apt)
 - "e-mailclient"
